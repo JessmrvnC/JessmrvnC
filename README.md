@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="jess.gif" width="200px" alt="Toji" />
+  <img src="jess.png" width="200px" alt="Toji" />
 </p>
 
 <p align="center">
