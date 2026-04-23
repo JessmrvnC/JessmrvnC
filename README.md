@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=JessmrvnC&style=flat-square&color=000000" alt="Profile Views" />
 </p>
 
-<br>
+<p align="center">
+  <img src="jess.gif" width="200px" alt="Toji" />
+</p>
 
 <p align="center">
   <kbd>
@@ -43,6 +45,24 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />&nbsp;
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" />
   </kbd>
+  <br><br>
+  <kbd>
+    <kbd style="font-weight: bold; padding: 2px 6px;">AI Tools</kbd>
+    <br><br>
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" />&nbsp;
+    <img width="40px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" title="Claude" />&nbsp;
+    <img width="40px" src="https://cdn.simpleicons.org/googlegemini/8E75B2" title="Gemini" />&nbsp;
+    <img width="40px" src="https://cdn.simpleicons.org/githubcopilot" title="GitHub Copilot" />&nbsp;
+    <img width="40px" src="https://cdn.simpleicons.org/perplexity/1FB8CD" title="Perplexity" />&nbsp;
+    <img width="40px" src="https://cdn.simpleicons.org/meta/0082FB" title="Meta AI" />
+  </kbd>
+  <br><br>
+  <kbd>
+    <kbd style="font-weight: bold; padding: 2px 6px;">Tools</kbd>
+    <br><br>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />&nbsp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+  </kbd>
 </p>
 
 <br>
@@ -51,10 +71,4 @@
   <em>"The best way to predict the future is to prompt it."</em>
 </p>
 
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JessmrvnC/JessmrvnC/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JessmrvnC/JessmrvnC/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/JessmrvnC/JessmrvnC/output/github-snake.svg" />
-</picture>
