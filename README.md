@@ -2,7 +2,7 @@
   <strong>Hi there, I'm Jess Marvin</strong>
 </h3>
 <h4 align="center">
-  <em>but you can call me <strong>JM</strong></em>
+  <em>but you can call me <strong>Jess</strong></em>
 </h4>
 <h5 align="center">
   Aspiring Prompt Engineer
